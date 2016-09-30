@@ -25,6 +25,9 @@ body{
     border-radius: 5px;
     height: auto;
 }
+.homePhoto:hover{
+    opacity: 0.7;
+}
 .profilePhoto {
     width:80%;
     border-radius: 5px;
